@@ -27,7 +27,7 @@
 <div class="page-wrapper">
  	
     <!-- Preloader -->
-    @include('layouts.preloaded')
+    {{-- @include('layouts.preloaded') --}}
  	
  	<!-- Main Header -->
     @include('layouts.navbar')

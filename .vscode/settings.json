@@ -1,0 +1,9 @@
+{
+    "openInGitHub.requireSelectionForLines": false,
+    "openInGitHub.providerType": "github",
+    "openInGitHub.useCommitSHAInURL": false,
+    "explorer.excludeGitIgnore": false,
+    "scm.providerCountBadge": "hidden",
+    "scm.alwaysShowActions": true,
+    "scm.alwaysShowRepositories": true
+}

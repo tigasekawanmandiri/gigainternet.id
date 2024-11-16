@@ -44,9 +44,6 @@
 						{{ session('success') }}
 						<br>
 						<br>
-						<a href="https://wa.me/+628112113311?text=Halo%20Admin%2C%20%0Asaya%20sudah%20melakukan%20registrasi%20melalui%20Website%20Official%20Gigainternet.id%20%0A%0ATerima%20kasih%2C%0A">
-							<button class="theme-btn btn-style-five"><span class="txt">Hubungi Langsung Ke WA</span></button>
-						</a>
 					</div>
 					@endif
 
