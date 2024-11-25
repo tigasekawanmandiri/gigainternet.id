@@ -1,0 +1,28 @@
+.area {
+    max-width: 768px;
+    position: static;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.navigation {
+    position: sticky;
+    bottom: 0;
+    background-color: #ffffff;
+    border: #bdbdbdea;
+    width: 100%;
+}
+
+.menu-container{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    padding: 10px;
+}
+
+.menu-item {
+    text-align: center;
+}
+
+.icon-menu {
+    width: 30px;
+}
