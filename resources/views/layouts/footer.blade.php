@@ -7,7 +7,7 @@
                 <!-- Title Column -->
                 <div class="title-column col-lg-6 col-md-12 col-sm-12">
                     <div class="inner-column">
-                        <h3>Dapatkan promo terbaru</h3>
+                        <h3>Pelajari tentang Ginesia</h3>
                         <div class="text">Dapatkan promo terbaik dari kami setiap hari</div>
                     </div>
                 </div>
@@ -39,13 +39,13 @@
                 <div class="facility-block col-sm-12 col-md-3 col-lg-3 col-xl-3">
                     <div class="inner-box" style="box-shadow:none; border-radius:10px; padding:20px 10px 20px;">
                         <div class="logo">
-                            <a href="/"><img src="{{ asset('template/images/giga_merah.png') }}" width="160px" alt="" /></a>
+                            <a href="/"><img src="{{ asset('template/images/ginesia/logo/ginesia_landscape.png') }}" width="160px" alt="" /></a>
                         </div>
                     </div>
                 </div>
 
                 <div class="facility-block col-sm-12 col-md-3 col-lg-3 col-xl-3">
-                    <div class="inner-box" style="background-color: var(--main-color); border-radius:10px; padding:20px 10px 20px;">
+                    <div class="inner-box" style="background-color: var(--main-color); border-radius:10px 0px 10px; padding:20px 10px 20px;">
                     <ul class="contact-info-list">
                         <li style="margin:0px;">
                             <span class="icon"><img src="{{ asset('template/images/icons/icon_call.png') }}" width="50px" alt="" /></span>
@@ -57,19 +57,19 @@
                 </div>
 
                 <div class="facility-block col-sm-12 col-md-3 col-lg-3 col-xl-3">
-                    <div class="inner-box" style="background-color: var(--main-color); border-radius:10px; padding:20px 10px 20px;">
+                    <div class="inner-box" style="background-color: var(--main-color); border-radius:10px 0px; padding:20px 10px 20px;">
                     <ul class="contact-info-list">
                         <li style="margin:0px;">
                             <span class="icon"><img src="{{ asset('template/images/icons/icon_email.png') }}" width="50px" alt="" /></span>
                             <a style="color: #fff;" href="mailto:marketing@gigainternet.id">marketing@gigainternet.id</a><br>
-                            <a style="color: #fff;" href="www.gigainternet.id">www.gigainternet.id</a>
+                            <a style="color: #fff;" href="www.gigainternet.id">www.ginesia.id</a>
                         </li>
                     </ul>
                     </div>
                 </div>
 
                 <div class="facility-block col-sm-12 col-md-3 col-lg-3 col-xl-3">
-                    <div class="inner-box" style="background-color: var(--main-color); border-radius:10px; padding:20px 10px 20px;">
+                    <div class="inner-box" style="background-color: var(--main-color); border-radius:10px 0px; padding:20px 10px 20px;">
                     <ul class="contact-info-list">
                         <li style="margin:0px;">
                             <span class="icon"><img src="{{ asset('template/images/icons/icon_lokasi.png') }}" width="50px" alt="" /></span>
@@ -94,7 +94,7 @@
     <!-- Footer Bottom -->
     <div class="footer-bottom">
         <div class="auto-container">
-            <div class="copyright">&copy; 2024 gigainternet.id</div>
+            <div class="copyright">&copy;Copyright <?php echo date("Y");?> ginesia.id</div>
         </div>
     </div>
 </footer>

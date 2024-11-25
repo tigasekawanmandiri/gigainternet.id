@@ -5,8 +5,8 @@
             <div class="clearfix">
                 <div class="pull-left">
                     {{-- <div class="title" style="color: var(--main-color);">FASILITAS</div> --}}
-                    <h2> Nikmati <span style="color: var(--main-color);">GIGAINTERNET.ID</span> <br> Tanpa Batas & Super Cepat</h2>
-                    <p class="text">Kami hadir untuk jadi <strong><span style="color: var(--main-color);">#TemanAktivitasmu</span></strong> dengan memberikan layanan terbaik</p>
+                    <h2> Internet <span style="color: var(--main-color);">Ginesia</span> <br> Tanpa Batas & Super Cepat</h2>
+                    <p class="text">Kami hadir untuk <strong><span style="color: var(--main-color);">#lebihcepatstabil</span></strong> dengan memberikan layanan terbaik</p>
                 </div>
                 <div class="pull-right">
                     {{-- <div class="text">Kami hadir untuk jadi #temanaktifitasmu dengan layanan terbaik</div> --}}

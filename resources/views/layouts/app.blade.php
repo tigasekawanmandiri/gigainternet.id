@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Gigainternet.id</title>
+<title>Ginesia.id</title>
 <!-- Stylesheets -->
 <link href="{{ asset('template/css/bootstrap.css') }}" rel="stylesheet">
 <link href="{{ asset('template/css/style.css') }}" rel="stylesheet">
@@ -11,8 +11,8 @@
 
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
-<link rel="shortcut icon" href="{{ asset('template/images/giga-ico-128.ico') }}" type="image/x-icon">
-<link rel="icon" href="{{ asset('template/images/giga-ico-128.ico') }}" type="image/x-icon">
+<link rel="shortcut icon" href="{{ asset('template/images/ginesia/logo/ginesia_square.png') }}" type="image/x-icon">
+<link rel="icon" href="{{ asset('template/images/ginesia/logo/ginesia_square.png') }}" type="image/x-icon">
 
 <!-- Responsive -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">

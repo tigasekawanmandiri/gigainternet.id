@@ -37,8 +37,8 @@
 .main-slider .slide{
 	position:relative;
 	overflow:hidden;
-	padding:195px 0px 85px;
-	background-size:contain;
+	padding:350px 0px 50px;
+	background-size:cover;
 	background-repeat: no-repeat;
 	background-position: right;
 }

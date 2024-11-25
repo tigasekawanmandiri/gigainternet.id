@@ -6,9 +6,9 @@
 		<div class="auto-container">
 			<div class="row" style="margin-top: 25px; margin-bottom:85px; ">
 				<div class="col-md-6 col-lg-6 col-xl-6" style="margin-top:auto; margin-bottom:auto; display:block;">
-					<h2>Apa itu Gigainternet ?</h2>
+					<h2>#LebihKenal Ginesia</h2>
 					<br>
-					<p>Merupakan layanan internet broadband menyediakan internet cepat & stabil untuk rumah, kantor & perusahaan dengan beragam paket layanan bisa disesuaikan dengan kebutuhan kamu. Saat ini GIGA internet.id terus berekspansi untuk memenuhi kebutuhan solusi internet bagi masyarakat.</p>
+					<p>Merupakan layanan internet broadband menyediakan internet cepat & stabil untuk rumah, kantor & perusahaan dengan beragam paket layanan bisa disesuaikan dengan kebutuhan kamu. Saat ini Ginesia terus berekspansi untuk memenuhi kebutuhan solusi internet bagi masyarakat.</p>
 				</div>
 				<div class="col-md-6 col-lg-6 col-xl-6">
 					<img src="{{ asset('template/images/resource/giga-office.webp')}}" alt="" width="100%">
@@ -53,9 +53,9 @@
                     </center>
 				</div>
 				<div class="col-md-6 col-lg-6 col-xl-6 app-download"  style="display: block; margin-top: auto; margin-bottom: auto;"> 
-					<img src="{{ asset('template/images/giga_merah.png')}}" alt="" width="250px">
+					<img src="{{ asset('template/images/ginesia/logo/ginesia_landscape.png')}}" alt="" width="250px">
                     <h3 style="margin: 40px 0 40px 0;">Transaksi makin mudah dalam genggaman Anda</h3>
-                    <a href="#">Pelajari Gigainternet</a>
+                    <a href="#">Pelajari Internet Ginesia</a>
                     <br><br>
                     <div class="" style="display: inline-block;">
                         <a href="#">
