@@ -119,7 +119,7 @@
                 <div class="title-column col-lg-6 col-md-12 col-sm-12">
                     <div class="inner-column">
                         <h3>#LebihDekat dengan Ginesia</h3>
-                        <h3>Cek ketersediaan jangkauan area rumah anda</h3>
+                        <p style="color: #ffffff; font-size:22px;">Cek ketersediaan jangkauan area rumah anda</p style="color: #ffffff; font-size:16px;">
                     </div>
                 </div>
                 

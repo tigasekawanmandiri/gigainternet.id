@@ -45,7 +45,7 @@
                 </div>
 
                 <div class="facility-block col-sm-12 col-md-3 col-lg-3 col-xl-3">
-                    <div class="inner-box" style="background-color: var(--main-color); border-radius:10px 0px 10px; padding:20px 10px 20px;">
+                    <div class="inner-box" style="background-color: var(--main-color); border-radius:35px 0px 35px; padding:20px 10px 20px;">
                     <ul class="contact-info-list">
                         <li style="margin:0px;">
                             <span class="icon"><img src="{{ asset('template/images/icons/icon_call.png') }}" width="50px" alt="" /></span>
@@ -57,11 +57,11 @@
                 </div>
 
                 <div class="facility-block col-sm-12 col-md-3 col-lg-3 col-xl-3">
-                    <div class="inner-box" style="background-color: var(--main-color); border-radius:10px 0px; padding:20px 10px 20px;">
+                    <div class="inner-box" style="background-color: var(--main-color); border-radius:35px 0px 35px; padding:20px 10px 20px;">
                     <ul class="contact-info-list">
                         <li style="margin:0px;">
                             <span class="icon"><img src="{{ asset('template/images/icons/icon_email.png') }}" width="50px" alt="" /></span>
-                            <a style="color: #fff;" href="mailto:marketing@gigainternet.id">marketing@gigainternet.id</a><br>
+                            <a style="color: #fff;" href="mailto:marketing@gigainternet.id">gigainternet2022@gmail.com</a><br>
                             <a style="color: #fff;" href="www.gigainternet.id">www.ginesia.id</a>
                         </li>
                     </ul>
@@ -69,7 +69,7 @@
                 </div>
 
                 <div class="facility-block col-sm-12 col-md-3 col-lg-3 col-xl-3">
-                    <div class="inner-box" style="background-color: var(--main-color); border-radius:10px 0px; padding:20px 10px 20px;">
+                    <div class="inner-box" style="background-color: var(--main-color); border-radius:35px 0px 35px; padding:20px 10px 20px;">
                     <ul class="contact-info-list">
                         <li style="margin:0px;">
                             <span class="icon"><img src="{{ asset('template/images/icons/icon_lokasi.png') }}" width="50px" alt="" /></span>
