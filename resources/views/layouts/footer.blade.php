@@ -61,7 +61,7 @@
                     <ul class="contact-info-list">
                         <li style="margin:0px;">
                             <span class="icon"><img src="{{ asset('template/images/icons/icon_email.png') }}" width="50px" alt="" /></span>
-                            <a style="color: #fff;" href="mailto:marketing@gigainternet.id">gigainternet2022@gmail.com</a><br>
+                            <a style="color: #fff; font-size:12px;" href="mailto:marketing@gigainternet.id">gigainternet2022@gmail.com</a><br>
                             <a style="color: #fff;" href="www.gigainternet.id">www.ginesia.id</a>
                         </li>
                     </ul>
