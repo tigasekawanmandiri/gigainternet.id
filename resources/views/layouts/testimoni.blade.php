@@ -5,7 +5,6 @@
         <div class="sec-title centered">
             <div class="title">testimoni</div>
             <h2>Ini kata Mereka</h2>
-            <h2>#LebihDekat dengan Ginesia</h2>
         </div>
         <!-- End Sec Title -->
         

@@ -6,7 +6,7 @@
             <div class="inner-container clearfix">
                 
                 <div class="pull-left logo-box">
-                    <div class="logo"><a href="/"><img src="{{ asset('template/images/ginesia/logo/ginesia_landscape.png') }}" width="150px" alt="" title=""></a></div>
+                    <div class="logo"><a href="/"><img src="{{ asset('template/images/giga_merah.png') }}" width="150px" alt="" title=""></a></div>
                 </div>
                 <div class="nav-outer clearfix">
                     
@@ -31,16 +31,16 @@
                                     </div>
                                 </li>
                                 
-                                {{-- <li>
+                                <li>
                                     <div class="btns-box" style="display:block; padding:0px">
                                         <a href="{{ route('poffice')}}" class="theme-btn btn-style-three"><span class="txt">Giga Office</span></a>
                                     </div>
-                                </li> --}}
-                                {{-- <li>
+                                </li>
+                                <li>
                                     <div class="btns-box" style="display:block; padding:0px">
                                         <a href="{{ route('pdedicated')}}" class="theme-btn btn-style-three"><span class="txt">Giga Dedicated</span></a>
                                     </div>
-                                </li> --}}
+                                </li>
                                 <li>
                                     <div class="btns-box" style="display:block; padding:0px">
                                         <a href="{{ route('About.index')}}" class="theme-btn btn-style-three"><span class="txt">Tentang Kami</span></a>
@@ -51,11 +51,11 @@
                                         <a href="{{ route('Contact.index')}}" class="theme-btn btn-style-three"><span class="txt">Kontak</span></a>
                                     </div>
                                 </li>
-                                {{-- <li>
+                                <li>
                                     <div class="btns-box" style="display:block; padding:0px">
                                         <a href="{{ route('pendaftaran.index')}}" class="theme-btn btn-style-three"><span class="txt">Registrasi</span></a>
                                     </div>
-                                </li> --}}
+                                </li>
                             </ul>
                         </div>
                         
@@ -94,16 +94,16 @@
                                     </div>
                                 </li>
                                 
-                                {{-- <li>
+                                <li>
                                     <div class="btns-box" style="display:block; padding:0px;">
                                         <a href="{{ route('poffice')}}" class="theme-btn btn-style-three"><span class="txt">Giga Office</span></a>
                                     </div>
-                                </li> --}}
-                                {{-- <li>
+                                </li>
+                                <li>
                                     <div class="btns-box" style="display:block; padding:0px;">
                                         <a href="{{ route('pdedicated')}}" class="theme-btn btn-style-three"><span class="txt">Giga Dedicated</span></a>
                                     </div>
-                                </li> --}}
+                                </li>
                                 <li>
                                     <div class="btns-box" style="display:block; padding:0px;">
                                         <a href="{{ route('About.index')}}" class="theme-btn btn-style-three"><span class="txt">Tentang Kami</span></a>
@@ -114,11 +114,11 @@
                                         <a href="{{ route('Contact.index')}}" class="theme-btn btn-style-three"><span class="txt">Kontak</span></a>
                                     </div>
                                 </li>
-                                {{-- <li>
+                                <li>
                                     <div class="btns-box" style="display:block; padding:0px;">
                                         <a href="{{ route('pendaftaran.index')}}" class="theme-btn btn-style-three"><span class="txt">Registrasi</span></a>
                                     </div>
-                                </li> --}}
+                                </li>
                             </ul>
                         </div>
                         
@@ -139,7 +139,7 @@
         <div class="auto-container clearfix">
             <!-- Logo -->
             <div class="logo pull-left">
-                <a href="/" title=""><img src="{{ asset('template/images/ginesia/logo/ginesia_landscape.png') }}" width="150px" alt="" title=""></a>
+                <a href="/" title=""><img src="{{ asset('template/images/giga_merah.png') }}" width="150px" alt="" title=""></a>
             </div>
             
             <!--Right Col-->
@@ -160,7 +160,7 @@
         <div class="close-btn"><span class="icon flaticon-multiply"></span></div>
         
         <nav class="menu-box">
-            <div class="nav-logo"><a href="/"><img src="{{ asset('template/images/ginesia/logo/ginesia_landscape.png')}} " alt="" title=""></a></div>
+            <div class="nav-logo"><a href="/"><img src="{{ asset('template/images/giga_merah.png')}}" alt="" title=""></a></div>
             <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
         </nav>
     </div><!-- End Mobile Menu -->

@@ -6,7 +6,7 @@
             
         <div class="main-slider-carousel owl-carousel owl-theme">
             
-            <div class="slide" style="background-image: url({{asset('template/images/ginesia/banner/bahan_banner_1.png')}})">
+            <div class="slide" style="background-image: linear-gradient(to right, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0.99), rgba(255, 255, 255, 0.12)), url({{asset('template/images/main-slider/slider_1.jpg')}})">
                 <!-- <div class="color-layer-one"></div>
                 <div class="color-layer-two"></div>
                 <div class="color-layer-three"></div> -->
@@ -15,7 +15,7 @@
                     <!-- Content Boxed -->
                     <div class="content-boxed">
                         <div class="inner-box">
-                            {{-- <h1 class="titleslider" style="font-size: 60px;">Ginesia.ID <br> Melayani Anda dimanapun berada</h1> --}}
+                            <h1 class="titleslider" style="font-size: 60px;">GIGAINTERNET.ID <br> Melayani Anda dimanapun berada</h1>
                             <div class="btns-box">
                                 <a href="{{ route ('About.index')}}" class="theme-btn btn-style-two btn-slidertype1"><span class="txt">Pelajari <i class="lnr lnr-arrow-right"></i></span></a>
                                 <a href="{{ route('Contact.index')}}" class="theme-btn btn-style-three btn-slidertype2"><span class="txt">Hubungi Kami <i class="lnr lnr-arrow-right"></i></span></a>
@@ -26,7 +26,7 @@
                 </div>
             </div>
             
-            <div class="slide" style="background-image: url({{asset('template/images/ginesia/banner/bahan_banner_2.png')}})">
+            <div class="slide" style="background-image: linear-gradient(to right, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0.99), rgba(255, 255, 255, 0.12)), url({{asset('template/images/main-slider/slider_2.jpg')}})">
                 <!-- <div class="color-layer-one"></div>
                 <div class="color-layer-two"></div>
                 <div class="color-layer-three"></div> -->
@@ -35,7 +35,26 @@
                     <!-- Content Boxed -->
                     <div class="content-boxed">
                         <div class="inner-box">
-                            {{-- <h1 class="titleslider" style="font-size: 60px;">Bisnis Online <br> Pasarkan Produkmu Dengan Cepat</h1> --}}
+                            <h1 class="titleslider" style="font-size: 60px;">Bisnis Online <br> Pasarkan Produkmu Dengan Cepat</h1>
+                            <div class="btns-box">
+                                <a href="{{ route ('About.index')}}" class="theme-btn btn-style-two btn-slidertype1"><span class="txt">Pelajari <i class="lnr lnr-arrow-right"></i></span></a>
+                                <a href="{{ route('Contact.index')}}" class="theme-btn btn-style-three btn-slidertype2"><span class="txt">Hubungi Kami <i class="lnr lnr-arrow-right"></i></span></a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+            <div class="slide" style="background-image: linear-gradient(to right, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0.99), rgba(255, 255, 255, 0.12)), url({{asset('template/images/main-slider/slider_3.jpg')}})">
+                <!-- <div class="color-layer-one"></div>
+                <div class="color-layer-two"></div>
+                <div class="color-layer-three"></div> -->
+                <div class="auto-container">
+                    
+                    <!-- Content Boxed -->
+                    <div class="content-boxed">
+                        <div class="inner-box">
+                            <h1 class="titleslider" style="font-size: 60px;">Tanpa Buffering <br> Tunjukkan Skill Pro-Playermu</h1>
                             <div class="btns-box">
                                 <a href="{{ route ('About.index')}}" class="theme-btn btn-style-two btn-slidertype1"><span class="txt">Pelajari <i class="lnr lnr-arrow-right"></i></span></a>
                                 <a href="{{ route('Contact.index')}}" class="theme-btn btn-style-three btn-slidertype2"><span class="txt">Hubungi Kami <i class="lnr lnr-arrow-right"></i></span></a>
@@ -46,7 +65,7 @@
                 </div>
             </div>
 
-            <div class="slide" style="background-image: url({{asset('template/images/ginesia/banner/bahan_banner_3.png')}})">
+            <div class="slide" style="background-image: linear-gradient(to right, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0.99), rgba(255, 255, 255, 0.12)), url({{asset('template/images/main-slider/slider_4.jpg')}})">
                 <!-- <div class="color-layer-one"></div>
                 <div class="color-layer-two"></div>
                 <div class="color-layer-three"></div> -->
@@ -55,7 +74,7 @@
                     <!-- Content Boxed -->
                     <div class="content-boxed">
                         <div class="inner-box">
-                            {{-- <h1 class="titleslider" style="font-size: 60px;">Tanpa Buffering <br> Tunjukkan Skill Pro-Playermu</h1> --}}
+                            <h1 class="titleslider" style="font-size: 60px;">Streaming seharian <br> Pakai Ginesia tanpa batas</h1>
                             <div class="btns-box">
                                 <a href="{{ route ('About.index')}}" class="theme-btn btn-style-two btn-slidertype1"><span class="txt">Pelajari <i class="lnr lnr-arrow-right"></i></span></a>
                                 <a href="{{ route('Contact.index')}}" class="theme-btn btn-style-three btn-slidertype2"><span class="txt">Hubungi Kami <i class="lnr lnr-arrow-right"></i></span></a>
@@ -66,7 +85,7 @@
                 </div>
             </div>
 
-            <div class="slide" style="background-image: url({{asset('template/images/ginesia/banner/bahan_banner_4.png')}})">
+            <div class="slide" style="background-image: linear-gradient(to right, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1), rgba(255, 255, 255, 0.12)), url({{asset('template/images/main-slider/slider_5.jpg')}})">
                 <!-- <div class="color-layer-one"></div>
                 <div class="color-layer-two"></div>
                 <div class="color-layer-three"></div> -->
@@ -75,27 +94,7 @@
                     <!-- Content Boxed -->
                     <div class="content-boxed">
                         <div class="inner-box">
-                            {{-- <h1 class="titleslider" style="font-size: 60px;">Streaming seharian <br> Pakai Ginesia tanpa batas</h1> --}}
-                            <div class="btns-box">
-                                <a href="{{ route ('About.index')}}" class="theme-btn btn-style-two btn-slidertype1"><span class="txt">Pelajari <i class="lnr lnr-arrow-right"></i></span></a>
-                                <a href="{{ route('Contact.index')}}" class="theme-btn btn-style-three btn-slidertype2"><span class="txt">Hubungi Kami <i class="lnr lnr-arrow-right"></i></span></a>
-                            </div>
-                        </div>
-                    </div>
-                    
-                </div>
-            </div>
-
-            <div class="slide" style="background-image: url({{asset('template/images/ginesia/banner/bahan_banner_5.png')}})">
-                <!-- <div class="color-layer-one"></div>
-                <div class="color-layer-two"></div>
-                <div class="color-layer-three"></div> -->
-                <div class="auto-container">
-                    
-                    <!-- Content Boxed -->
-                    <div class="content-boxed">
-                        <div class="inner-box">
-                            {{-- <h1 class="titleslider" style="font-size: 60px;">Belajar makin pintar <br> Pakai Wifi Ginesia super lancar</h1> --}}
+                            <h1 class="titleslider" style="font-size: 60px;">Belajar makin pintar <br> Pakai Wifi Ginesia super lancar</h1>
                             <div class="btns-box">
                                 <a href="{{ route ('About.index')}}" class="theme-btn btn-style-two btn-slidertype1"><span class="txt">Pelajari <i class="lnr lnr-arrow-right"></i></span></a>
                                 <a href="{{ route('Contact.index')}}" class="theme-btn btn-style-three btn-slidertype2"><span class="txt">Hubungi Kami <i class="lnr lnr-arrow-right"></i></span></a>
@@ -118,7 +117,7 @@
                 <!-- Title Column -->
                 <div class="title-column col-lg-6 col-md-12 col-sm-12">
                     <div class="inner-column">
-                        <h3>#LebihDekat dengan Ginesia</h3>
+                        {{-- <h3>#LebihDekat dengan Ginesia</h3> --}}
                         <p style="color: #ffffff; font-size:22px;">Cek ketersediaan jangkauan area rumah anda</p style="color: #ffffff; font-size:16px;">
                     </div>
                 </div>
@@ -145,7 +144,7 @@
     <!-- End Appointment Section -->
 
     <!-- Pricing Section Two / Style Three -->
-    {{-- <section class="" style="padding-top:30px;">
+    <section class="" style="padding-top:30px;">
         <div class="auto-container">
             <!-- Sec Title -->
             <div class="sec-title centered">
@@ -353,7 +352,7 @@
             
             
         </div>
-    </section> --}}
+    </section>
     <!-- End Pricing Section Two / Style Three -->
 
     <!-- Facility Section -->
